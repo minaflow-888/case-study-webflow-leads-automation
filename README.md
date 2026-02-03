@@ -1,7 +1,8 @@
-# Automated Lead Capture (Webflow → Sheets → Slack → Email)
+# 🚀 Automated Lead Capture (Webflow → Sheets → Slack → Email)
+
+A real-time automation to save leads instantly, alert your team, and improve client response – built in [Make.com](https://www.make.com).
 
 A Make.com workflow that captures Webflow contact form leads, stores them in Google Sheets, sends a Slack alert, and replies via email automatically.
-
 
 
 A lightweight lead-capture automation built in **Make.com**.  
@@ -10,6 +11,32 @@ When a visitor submits the **Webflow** contact form, the workflow instantly:
 2) logs the lead in **Google Sheets**,  
 3) posts a notification to **Slack**, and  
 4) sends an **automatic confirmation email** to the lead.
+
+---
+
+## 📚 Table of Contents
+
+- [📌 Overview](#-automated-lead-capture-webflow--sheets--slack--email)
+- [👤 Client / Scenario](#-client--scenario)
+- [❗ Problem](#-problem)
+- [✅ Solution (Workflow)](#-solution-workflow)
+- [🛠 Key Implementation Details](#-key-implementation-details)
+- [🖼 Workflow Visuals](#-workflow-visuals)
+- [🧰 Tools Used](#-tech-stack)
+- [📊 Results / ROI](#-results)
+- [🔧 What I'd Improve Next](#-what-id-improve-next)
+- [📷 Notes on Privacy](#-notes-on-privacy)
+- [📩 Call to Action](#-call-to-action)
+
+---
+
+## 👤 Client / Scenario
+
+This project simulates a typical Swedish small business (*småföretag*)—for example, a local cleaning or repair service with 2–3 employees.
+
+These businesses often receive 5–10 inquiries per week via their Webflow contact form, but they lack time and tools to manage leads efficiently.
+
+> This project is based on real-world workflows used by småföretag in Sweden and reflects their common automation needs.
 
 ---
 
@@ -34,6 +61,32 @@ Manual handling of contact form submissions often causes:
 5. **Email (Send an email)** – auto-reply confirmation to the lead
 
 > **Filter:** `Email not empty` prevents invalid / empty submissions.
+
+---
+
+## 🖼 Workflow Visuals
+
+### 🧩 Make Scenario Overview
+![Make Scenario](./assets/make-scenario.png)
+*A simple Make.com workflow triggered by Webflow email.*
+
+---
+
+### 💬 Slack Alert
+![Slack Message](./assets/slack-alert.png)
+*New lead posted to Slack #leads channel instantly.*
+
+---
+
+### 📊 Google Sheets Entry
+![Sheets Row](./assets/sheets-row.png)
+*Lead data logged automatically with timestamp.*
+
+---
+
+### 📧 Auto-Reply Email
+![Auto Reply](./assets/email-reply.png)
+*Professional confirmation sent to the client within seconds.*
 
 ---
 
@@ -90,6 +143,12 @@ A short, professional confirmation message:
 ## Notes on Privacy
 
 All screenshots in this repository will have **emails / tokens blurred**.
+
+---
+
+## 📷 Notes on Privacy
+
+All screenshots in this repository have **emails, tokens, and personal information blurred** to ensure privacy and simulate realistic business data safely.
 
 ---
 
