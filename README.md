@@ -16,20 +16,19 @@ When a visitor submits the **Webflow** contact form, the workflow instantly:
 
 ## 📚 Table of Contents
 
-- [🚀 Overview](#-automated-lead-capture-webflow--sheets--slack--email)
-- [👤 Client / Scenario](#-client--scenario)
-- [🎯 Who This Automation Helps (Industries that Benefit)](#-who-this-automation-helps-industries-that-benefit)
-- [❗ Problem](#-problem)
-- [✅ Solution (Workflow)](#-solution-workflow)
-- [🧠 Why This Automation Matters](#-why-this-automation-matters)
-- [📸 Workflow Visuals – Supplementary Screenshots](#-workflow-visuals--supplementary-screenshots)
-- [📊 Results / ROI](#-results--roi)
-- [🛠 Key Implementation Details (Behind the Scenes)](#-key-implementation-details-behind-the-scenes)
-- [🔧 What I’d Improve Next](#-what-id-improve-next)
-- [🗂️ Screenshots (to be added)](#-screenshots-to-be-added)
-- [🛡 Notes on Privacy](#-notes-on-privacy)
-- [🧰 Tech Stack](#-tech-stack)
-- [📩 Call to Action](#-call-to-action)
+- [Overview](#overview)
+- [Client / Scenario](#client--scenario)
+- [Who This Automation Helps (Industries that Benefit)](#who-this-automation-helps-industries-that-benefit)
+- [Problem](#problem)
+- [Solution (Workflow)](#solution-workflow)
+- [Why This Automation Matters](#why-this-automation-matters)
+- [Workflow Visuals – Supplementary Screenshots](#workflow-visuals--supplementary-screenshots)
+- [Results / ROI](#results--roi)
+- [Key Implementation Details (Behind the Scenes)](#key-implementation-details-behind-the-scenes)
+- [What I’d Improve Next](#what-id-improve-next)
+- [Notes on Privacy](#notes-on-privacy)
+- [Tech Stack](#tech-stack)
+- [Call to Action](#call-to-action)
 
 ---
 
