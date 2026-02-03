@@ -124,7 +124,6 @@ Manual handling of contact form submissions often causes:
 
 ### 7. 🔔 Slack Notification  
 **New lead details are sent to a Slack channel instantly.**  
-![slack-notification-message](./assets/slack-notification-message.png)  
 ![slack-notification](./assets/slack-notification.png)
 
 ---
