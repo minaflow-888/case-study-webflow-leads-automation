@@ -40,6 +40,22 @@ These businesses often receive 5–10 inquiries per week via their Webflow conta
 
 ---
 
+## 🎯 Who This Automation Helps (Industries that Benefit)
+
+This automation is especially useful for small and digital businesses that rely on fast, consistent responses to online lead inquiries.  
+
+![Who Benefits from Automation](./assets/who-benefits-automation.png)
+
+**Key industries that benefit most:**
+
+- 💻 **Digital Agencies** – instant lead capture & fast client responses  
+- 🚀 **Tech & SaaS Startups** – real-time lead organization and follow-up  
+- 🧠 **Consultants & Coaches** – never miss a potential client  
+- 🛒 **E‑commerce & Local Stores** – quicker order capture & customer care  
+- ✨ **Freelancers & Service Providers** – professional and automated workflows
+
+---
+
 ## Problem
 
 Manual handling of contact form submissions often causes:
