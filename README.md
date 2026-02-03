@@ -166,7 +166,13 @@ Here are reference screenshots from the actual automation scenario to visually e
 
 ---
 
-### 9. ✅ Lead Receives Confirmation Reply  
+## 9. 🔔 Slack Notification in #leads
+The team receives an instant Slack alert with the lead details.
+![Slack lead notification](assets/09-slack-leads-message.png)
+
+---
+
+### 10. ✅ Lead Receives Confirmation Reply  
 **Client sees the reply in their inbox.**  
 ![client-received-reply](./assets/client-received-reply.png)
 
