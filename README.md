@@ -16,17 +16,17 @@ When a visitor submits the **Webflow** contact form, the workflow instantly:
 
 ## 📚 Table of Contents
 
-- [📌 Overview](#-automated-lead-capture-webflow--sheets--slack--email)
-- [👤 Client / Scenario](#-client--scenario)
-- [❗ Problem](#-problem)
-- [✅ Solution (Workflow)](#-solution-workflow)
-- [🛠 Key Implementation Details](#-key-implementation-details)
-- [🖼 Workflow Visuals](#-workflow-visuals)
-- [🧰 Tools Used](#-tech-stack)
-- [📊 Results / ROI](#-results)
-- [🔧 What I'd Improve Next](#-what-id-improve-next)
-- [📷 Notes on Privacy](#-notes-on-privacy)
-- [📩 Call to Action](#-call-to-action)
+- [📌 Overview](#automated-lead-capture-webflow--sheets--slack--email)
+- [👤 Client / Scenario](#client--scenario)
+- [❗ Problem](#problem)
+- [✅ Solution (Workflow)](#solution-workflow)
+- [🛠 Key Implementation Details](#key-implementation-details)
+- [📸 Workflow Visuals – Supplementary Screenshots](#workflow-visuals--supplementary-screenshots)
+- [🧰 Tools Used](#tech-stack)
+- [📊 Results / ROI](#results--roi)
+- [🔧 What I'd Improve Next](#what-id-improve-next)
+- [📷 Notes on Privacy](#notes-on-privacy)
+- [📩 Call to Action](#call-to-action)
 
 ---
 
