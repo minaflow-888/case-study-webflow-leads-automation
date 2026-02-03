@@ -67,25 +67,25 @@ Manual handling of contact form submissions often causes:
 ## 🖼 Workflow Visuals
 
 ### 🧩 Make Scenario Overview
-![Make Scenario](./assets/make-scenario.png)
+[Make Scenario](assets/make-scenario-overview.png) 
 *A simple Make.com workflow triggered by Webflow email.*
 
 ---
 
 ### 💬 Slack Alert
-![Slack Message](./assets/slack-alert.png)
+[Slack Message](assets/slack-notification.png)
 *New lead posted to Slack #leads channel instantly.*
 
 ---
 
 ### 📊 Google Sheets Entry
-![Sheets Row](./assets/sheets-row.png)
+[Sheets Row](assets/lead-recorded-in-sheet.png) 
 *Lead data logged automatically with timestamp.*
 
 ---
 
 ### 📧 Auto-Reply Email
-![Auto Reply](./assets/email-reply.png)
+[Sheets Row](assets/lead-recorded-in-sheet.png) 
 *Professional confirmation sent to the client within seconds.*
 
 ---
