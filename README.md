@@ -2,15 +2,20 @@
 
 A real-time automation to save leads instantly, alert your team, and improve client response – built in [Make.com](https://www.make.com).
 
-A Make.com workflow that captures Webflow contact form leads, stores them in Google Sheets, sends a Slack alert, and replies via email automatically.
+Built to ensure no lead gets missed.
 
+## ✅ At a glance
 
-A lightweight lead-capture automation built in **Make.com**.  
+- **Trigger:** Webflow form submission (via email → Make mailhook)
+- **Outputs:** Google Sheets row + Slack alert + instant confirmation email
+- **Best for:** Solo founders, agencies, service businesses
+- **Result:** Faster response + fewer missed inquiries
+
 When a visitor submits the **Webflow** contact form, the workflow instantly:
-1) parses the email notification,  
-2) logs the lead in **Google Sheets**,  
-3) posts a notification to **Slack**, and  
-4) sends an **automatic confirmation email** to the lead.
+1) parses the submission data,
+2) stores the lead in **Google Sheets**,
+3) alerts the team in **Slack**, and
+4) sends an **instant confirmation email** to the lead.
 
 ---
 
@@ -258,6 +263,5 @@ I'm available for freelance projects, internships, or collaborations in automati
 👉 Let’s connect on [LinkedIn](https://www.linkedin.com/in/your-profile) or email me at **yourname@email.com**.
 
 [![Contact](https://img.shields.io/badge/💬%20Contact%20me-LinkedIn-blue)](https://www.linkedin.com/in/your-profile)
-
 
 
