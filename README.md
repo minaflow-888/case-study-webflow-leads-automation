@@ -27,7 +27,7 @@ When a visitor submits the **Webflow** contact form, the workflow instantly:
 
 ---
 
-## 📚 Table of Contents
+##  Table of Contents
 
 - [Overview](#overview)
 - [Client / Scenario](#client--scenario)
@@ -45,7 +45,7 @@ When a visitor submits the **Webflow** contact form, the workflow instantly:
 
 ---
 
-## 👤 Client / Scenario
+##  Client / Scenario
 
 This project simulates a typical Swedish small business (*småföretag*)—for example, a local cleaning or repair service with 2–3 employees.
 
@@ -55,7 +55,7 @@ These businesses often receive 5–10 inquiries per week via their Webflow conta
 
 ---
 
-## 🎯 Who This Automation Helps (Industries that Benefit)
+##  Who This Automation Helps (Industries that Benefit)
 
 This automation is especially useful for small and digital businesses that rely on fast, consistent responses to online lead inquiries.  
 
@@ -95,11 +95,11 @@ Manual handling of contact form submissions often causes:
 
 ---
 
-## 📸 Workflow Visuals – Supplementary Screenshots
+##  Workflow Visuals – Supplementary Screenshots
 
 Here are reference screenshots from the actual automation scenario to visually explain each step in the lead automation process.
 
-### 1. 📨 Contact Form Submission  
+### 1.  Contact Form Submission  
 **User fills out and submits the contact form on Webflow.**
 
 📥 Filled-out form:  
@@ -163,7 +163,7 @@ Here are reference screenshots from the actual automation scenario to visually e
 
 ---
 
-### 🔄 Visual Scenario Overview
+###  Visual Scenario Overview
 
 A step-by-step visual breakdown of the full automation process — from form submission to team notification.
 
@@ -173,7 +173,7 @@ A step-by-step visual breakdown of the full automation process — from form sub
 
 ---
 
-## 📊 Results / ROI
+##  Results / ROI
 
 
 - ⏱️ **Instant confirmation** to the lead = better client experience  
@@ -183,7 +183,7 @@ A step-by-step visual breakdown of the full automation process — from form sub
 
 ---
 
-## 🧲 Why This Automation Matters
+##  Why This Automation Matters
 
 Manual lead handling may seem manageable at first — but it often results in lost time, missed leads, and unnecessary stress.
 
@@ -195,7 +195,7 @@ This visual comparison shows how automation transforms your workflow into someth
 
 ---
 
-### 🔁 Before vs. After
+###  Before vs. After
 
 | ❌ Before (Manual)                  | ✅ After (Automated)                        |
 |------------------------------------|--------------------------------------------|
@@ -209,7 +209,7 @@ This visual comparison shows how automation transforms your workflow into someth
 
 ---
 
-## 🔧 What I’d Improve Next
+##  What I’d Improve Next
 
 - ➕ Add CRM integration (e.g. Notion or Airtable) to manage leads long-term  
 - 🔁 Set up automated follow-up emails after 24h for unanswered leads  
@@ -218,7 +218,7 @@ This visual comparison shows how automation transforms your workflow into someth
 
 ---
 
-## 🛠️ Key Implementation Details (Behind the Scenes)
+##  Key Implementation Details (Behind the Scenes)
 
 ### 1) Parsing from Webflow email notification
 Webflow sends all fields inside one email text block.  
@@ -246,7 +246,7 @@ A short, professional confirmation message:
 
 ---
 
-## 📷 Notes on Privacy
+##  Notes on Privacy
 
 All screenshots in this repository have **emails, tokens, and personal information blurred** to ensure privacy and simulate realistic business data safely.
 
@@ -262,7 +262,7 @@ All screenshots in this repository have **emails, tokens, and personal informati
 
 ---
 
-## 📩 Call to Action
+##  Call to Action
 
 Looking to automate your lead handling or admin workflows?
 
