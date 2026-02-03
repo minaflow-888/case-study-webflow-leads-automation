@@ -25,6 +25,14 @@ When a visitor submits the **Webflow** contact form, the workflow instantly:
 - **Data reliability:** every lead stored in one place (Sheets)
 - **Team visibility:** Slack alert ensures no inquiry is missed
 
+### Estimated ROI (example)
+
+If a team receives ~10 leads/week and manual handling takes ~5 minutes per lead:
+
+- **Time saved:** ~50 minutes/week (~3.3 hours/month)
+- **Faster response:** instant confirmation + Slack alert
+- **Lower risk:** every inquiry logged in Sheets
+
 ---
 
 ##  Table of Contents
@@ -160,6 +168,17 @@ Here are reference screenshots from the actual automation scenario to visually e
 ### 10. 🧩 Make Scenario Overview  
 **Complete view of the Make automation steps.**  
 ![make-scenario-overview](./assets/make-scenario-overview.png)
+
+---
+
+## How to test (quick demo)
+
+Use a test email and dummy data (no real client data).
+
+1. Submit the Webflow contact form with a test name/email/message.
+2. Confirm a new row appears in Google Sheets.
+3. Confirm a Slack message appears in `#leads`.
+4. Confirm the auto-reply email arrives to the submitted email address.
 
 ---
 
