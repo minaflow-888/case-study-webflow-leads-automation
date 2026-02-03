@@ -139,6 +139,19 @@ Manual handling of contact form submissions often causes:
 - ⚡ **Real-time alerts** in Slack = faster response  
 - 💼 **Less manual work** = fewer missed messages, more time for service  
 
+---
+
+## 🧲 Why This Automation Matters
+
+Manual lead handling may seem manageable at first — but it often results in lost time, missed leads, and unnecessary stress.
+
+This visual comparison shows how automation transforms your workflow into something faster, easier, and more reliable:
+
+![Manual vs Automated Workflow](./assets/manual-vs-automated-visual.png)
+
+*Instant alerts. Centralized tracking. Peace of mind.*
+
+---
 
 ### 🔁 Before vs. After
 
