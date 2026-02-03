@@ -2,6 +2,12 @@
 
 A real-time automation to save leads instantly, alert your team, and improve client response – built in [Make.com](https://www.make.com).
 
+---
+
+![Make.com scenario overview — Webflow → Sheets → Slack → Email](assets/02-make-scenario-overview.png)
+
+> **In 10 seconds:** A Webflow form submission triggers a Make mailhook, parses the email body, saves the lead to Google Sheets, posts to Slack, and sends an auto-reply email.
+
 Built to ensure no lead gets missed.
 
 ## ✅ At a glance
