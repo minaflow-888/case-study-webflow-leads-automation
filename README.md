@@ -66,27 +66,64 @@ Manual handling of contact form submissions often causes:
 
 ## 🖼 Workflow Visuals
 
-### 🧩 Make Scenario Overview
-[Make Scenario](assets/make-scenario-overview.png) 
-*A simple Make.com workflow triggered by Webflow email.*
+### 1. 📨 Contact Form Submission  
+**User submits the contact form on Webflow.**  
+![form-submitted-message](./assets/form-submitted-message.png)
 
 ---
 
-### 💬 Slack Alert
-[Slack Message](assets/slack-notification.png)
-*New lead posted to Slack #leads channel instantly.*
+### 2. 📨 Webhook Captures Form Submission  
+**Make.com webhook receives the new message from Webflow.**  
+![webhook-capture-email](./assets/webhook-capture-email.png)
 
 ---
 
-### 📊 Google Sheets Entry
-[Sheets Row](assets/lead-recorded-in-sheet.png) 
-*Lead data logged automatically with timestamp.*
+### 3. 🧠 Text Parser Extracts Lead Info  
+**Name, email, and message are parsed from the submission.**  
+![text-parser-output](./assets/text-parser-output.png)
 
 ---
 
-### 📧 Auto-Reply Email
-[Sheets Row](assets/lead-recorded-in-sheet.png) 
-*Professional confirmation sent to the client within seconds.*
+### 4. 🚦 Email Content Filter  
+**Only non-empty messages continue in the flow.**  
+![filter-email-empty](./assets/filter-email-empty.png)
+
+---
+
+### 5. 📊 Save to Google Sheets  
+**Lead data is recorded in a Google Sheets row.**  
+![google-sheets-save-lead](./assets/google-sheets-save-lead.png)
+
+---
+
+### 6. 📄 Sheet Entry Confirmation  
+**The lead is stored with timestamp and source.**  
+![lead-recorded-in-sheet](./assets/lead-recorded-in-sheet.png)
+
+---
+
+### 7. 🔔 Slack Notification  
+**New lead details are sent to a Slack channel instantly.**  
+![slack-notification-message](./assets/slack-notification-message.png)  
+![slack-notification](./assets/slack-notification.png)
+
+---
+
+### 8. 📧 Confirmation Email Sent to Lead  
+**Automated thank-you email is sent.**  
+![email-confirmation-client](./assets/email-confirmation-client.png)
+
+---
+
+### 9. ✅ Lead Receives Confirmation Reply  
+**Client sees the reply in their inbox.**  
+![client-received-reply](./assets/client-received-reply.png)
+
+---
+
+### 10. 🧩 Make Scenario Overview  
+**Complete view of the Make automation steps.**  
+![make-scenario-overview](./assets/make-scenario-overview.png)
 
 ---
 
