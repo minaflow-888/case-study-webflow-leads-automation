@@ -7,7 +7,7 @@ Built to ensure no lead gets missed.
 ## ✅ At a glance
 
 - **Trigger:** Webflow form submission (via email → Make mailhook)
-- **Outputs:** Google Sheets row + Slack alert + instant confirmation email
+- **“Actions:** Google Sheets row + Slack alert + instant confirmation email
 - **Best for:** Solo founders, agencies, service businesses
 - **Result:** Faster response + fewer missed inquiries
 
@@ -16,6 +16,14 @@ When a visitor submits the **Webflow** contact form, the workflow instantly:
 2) stores the lead in **Google Sheets**,
 3) alerts the team in **Slack**, and
 4) sends an **instant confirmation email** to the lead.
+
+---
+
+## 📈 Impact
+
+- **Response time:** instant (vs. manual follow-up later)
+- **Data reliability:** every lead stored in one place (Sheets)
+- **Team visibility:** Slack alert ensures no inquiry is missed
 
 ---
 
