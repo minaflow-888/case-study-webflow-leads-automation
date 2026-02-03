@@ -67,9 +67,13 @@ Manual handling of contact form submissions often causes:
 ## 🖼 Workflow Visuals
 
 ### 1. 📨 Contact Form Submission  
-**User submits the contact form on Webflow.**  
-![form-submitted-message](./assets/form-submitted-message.png)
+**User fills out and submits the contact form on Webflow.**
 
+📥 Filled-out form:  
+![contact-form-filled](./assets/form-filled-out.png)
+
+✅ Submission confirmation (Thank You message):  
+![form-submitted-message](./assets/form-submitted-message.png)
 ---
 
 ### 2. 📨 Webhook Captures Form Submission  
