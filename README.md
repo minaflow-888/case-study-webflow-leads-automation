@@ -234,19 +234,6 @@ A short, professional confirmation message:
 
 ---
 
-## Screenshots (to be added)
-
-> I will add screenshots here once sensitive data is blurred.
-
-- Webflow form submission
-- Make.com scenario overview
-- Text parser pattern + output
-- Google Sheets row created
-- Slack #leads notification
-- Email auto-reply
-
----
-
 ## 📷 Notes on Privacy
 
 All screenshots in this repository have **emails, tokens, and personal information blurred** to ensure privacy and simulate realistic business data safely.
