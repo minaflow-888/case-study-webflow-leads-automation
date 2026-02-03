@@ -209,6 +209,9 @@ Manual lead handling may seem manageable at first — but it often results in lo
 
 This visual comparison shows how automation transforms your workflow into something faster, easier, and more reliable:
 
+> Visual comparison (illustrative): highlights typical manual steps vs an automated pipeline.  
+> Time ranges in the graphic are examples — the realistic estimate for this demo is shown in **Estimated ROI (example)** above.
+
 ![Manual vs Automated Workflow](./assets/manual-vs-automated-visual.png)
 
 *Instant alerts. Centralized tracking. Peace of mind.*
