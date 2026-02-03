@@ -7,7 +7,7 @@ Built to ensure no lead gets missed.
 ## ✅ At a glance
 
 - **Trigger:** Webflow form submission (via email → Make mailhook)
-- **“Actions:** Google Sheets row + Slack alert + instant confirmation email
+- **Actions:** Google Sheets row + Slack alert + instant confirmation email
 - **Best for:** Solo founders, agencies, service businesses
 - **Result:** Faster response + fewer missed inquiries
 
