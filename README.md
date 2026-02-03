@@ -147,6 +147,16 @@ Manual handling of contact form submissions often causes:
 
 ---
 
+### 🔄 Visual Scenario Overview
+
+A step-by-step visual breakdown of the full automation process — from form submission to team notification.
+
+![automation-process-diagram](assets/automation-process-diagram.png)
+
+<sub>Form → Make → Google Sheets → Slack → Email — fully automated in seconds</sub>
+
+---
+
 ## 📊 Results / ROI
 
 
