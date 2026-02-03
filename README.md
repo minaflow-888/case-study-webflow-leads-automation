@@ -80,7 +80,9 @@ Manual handling of contact form submissions often causes:
 
 ---
 
-## 🖼 Workflow Visuals
+## 📸 Workflow Visuals – Supplementary Screenshots
+
+Here are reference screenshots from the actual automation scenario to visually explain each step in the lead automation process.
 
 ### 1. 📨 Contact Form Submission  
 **User fills out and submits the contact form on Webflow.**
