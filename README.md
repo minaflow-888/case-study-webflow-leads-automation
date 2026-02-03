@@ -172,12 +172,6 @@ Here are reference screenshots from the actual automation scenario to visually e
 
 ---
 
-### 10. 🧩 Make Scenario Overview  
-**Complete view of the Make automation steps.**  
-![make-scenario-overview](./assets/make-scenario-overview.png)
-
----
-
 ## How to test (quick demo)
 
 Use a test email and dummy data (no real client data).
