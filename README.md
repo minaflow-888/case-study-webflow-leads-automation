@@ -36,7 +36,7 @@ This project simulates a typical Swedish small business (*småföretag*)—for e
 
 These businesses often receive 5–10 inquiries per week via their Webflow contact form, but they lack time and tools to manage leads efficiently.
 
-> This project is based on real-world workflows used by småföretag in Sweden and reflects their common automation needs.
+> This project simulates a typical Swedish small business (*småföretag*, meaning “micro-business” or “small local company”).
 
 ---
 
@@ -90,16 +90,39 @@ Manual handling of contact form submissions often causes:
 
 ---
 
-## Results
+## 📊 Results / ROI
 
-- **Instant confirmation** to the lead (better experience)
-- **All leads stored** in one place (Sheets)
-- **Real-time alerts** for fast follow-up (Slack)
-- **Less manual work**, fewer missed messages
+
+- ⏱️ **Instant confirmation** to the lead = better client experience  
+- 📊 **All leads stored in one place** = easier tracking and follow-up  
+- ⚡ **Real-time alerts** in Slack = faster response  
+- 💼 **Less manual work** = fewer missed messages, more time for service  
+
+
+### 🔁 Before vs. After
+
+| ❌ Before (Manual)                  | ✅ After (Automated)                        |
+|------------------------------------|--------------------------------------------|
+| Leads buried in email inbox        | Leads instantly stored in Sheets           |
+| Owner checks once a day            | Slack sends lead alert in real time        |
+| Manual replies (or none at all)    | Auto-confirmation email in seconds         |
+| No tracking system                 | Centralized lead log (timestamped)         |
+
+
+> ⚠️ These are estimated results based on typical workflows of Swedish *småföretag* (small businesses).
 
 ---
 
-## Key Implementation Details
+## 🔧 What I’d Improve Next
+
+- ➕ Add CRM integration (e.g. Notion or Airtable) to manage leads long-term  
+- 🔁 Set up automated follow-up emails after 24h for unanswered leads  
+- 📈 Create a basic analytics dashboard to track conversion rates  
+- 💰 Connect to Fortnox for invoicing (for Swedish businesses)
+
+---
+
+## 🛠️ Key Implementation Details (Behind the Scenes)
 
 ### 1) Parsing from Webflow email notification
 Webflow sends all fields inside one email text block.  
@@ -140,12 +163,6 @@ A short, professional confirmation message:
 
 ---
 
-## Notes on Privacy
-
-All screenshots in this repository will have **emails / tokens blurred**.
-
----
-
 ## 📷 Notes on Privacy
 
 All screenshots in this repository have **emails, tokens, and personal information blurred** to ensure privacy and simulate realistic business data safely.
@@ -159,3 +176,18 @@ All screenshots in this repository have **emails, tokens, and personal informati
 - Google Sheets
 - Slack
 - Email (SMTP/IMAP connection)
+
+---
+
+## 📩 Call to Action
+
+Looking to automate your lead handling or admin workflows?
+
+I'm available for freelance projects, internships, or collaborations in automation, especially with tools like Webflow, Make.com, and Google Sheets.
+
+👉 Let’s connect on [LinkedIn](https://www.linkedin.com/in/your-profile) or email me at **yourname@email.com**.
+
+[![Contact](https://img.shields.io/badge/💬%20Contact%20me-LinkedIn-blue)](https://www.linkedin.com/in/your-profile)
+
+
+
