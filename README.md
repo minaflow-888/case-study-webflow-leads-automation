@@ -42,6 +42,15 @@ If a team receives ~10 leads/week and manual handling takes ~5 minutes per lead:
 
 ---
 
+## My Role
+
+- Built the Webflow contact form and tested submissions
+- Designed and implemented the Make.com scenario (parsing, mapping, routing)
+- Added basic validation (e.g., “email not empty”) and verified end-to-end delivery
+- Documented the workflow with screenshots and a quick test guide
+  
+---
+
 ##  Table of Contents
 
 - [Overview](#overview)
@@ -110,9 +119,18 @@ Manual handling of contact form submissions often causes:
 
 ---
 
+## Why this approach
+
+This demo uses Webflow’s form email notification routed into a Make mailhook to keep the setup simple and compatible with basic Webflow plans.  
+Depending on project needs, the same automation could also be implemented via a direct API/Webflow Logic approach.
+
+---
+
 ##  Workflow Visuals – Supplementary Screenshots
 
 Here are reference screenshots from the actual automation scenario to visually explain each step in the lead automation process.
+
+---
 
 ### 1.  Contact Form Submission  
 **User fills out and submits the contact form on Webflow.**
