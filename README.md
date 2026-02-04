@@ -51,13 +51,15 @@ If a team receives ~10 leads/week and manual handling takes ~5 minutes per lead:
   
 ---
 
-##  Table of Contents
+## Table of Contents
 
 - [Overview](#overview)
 - [Client / Scenario](#client--scenario)
 - [Who This Automation Helps (Industries that Benefit)](#who-this-automation-helps-industries-that-benefit)
 - [Problem](#problem)
 - [Solution (Workflow)](#solution-workflow)
+- [Why this approach](#why-this-approach)
+- [My Role](#my-role)
 - [Why This Automation Matters](#why-this-automation-matters)
 - [Workflow Visuals – Supplementary Screenshots](#workflow-visuals--supplementary-screenshots)
 - [Results / ROI](#results--roi)
@@ -66,6 +68,7 @@ If a team receives ~10 leads/week and manual handling takes ~5 minutes per lead:
 - [Notes on Privacy](#notes-on-privacy)
 - [Tech Stack](#tech-stack)
 - [Call to Action](#call-to-action)
+
 
 ---
 
